@@ -1,4 +1,4 @@
-Part2 - Sequence Models
+# Part 2 - Sequence Models
 
 1. Sequence Models - Motivation
 1. Natural Language Processing - Basics: One hot encoding, Embedding, Language Model
