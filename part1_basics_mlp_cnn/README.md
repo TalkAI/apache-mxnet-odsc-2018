@@ -1,4 +1,4 @@
-# Part 1 
+# Part 1 - DL Basics, GLUON, CNN
 1. Deep Learning - Motivation
 1. Perceptron, Neural Network and Multi Layer Perceptron (MLP)
 1. Model building process
