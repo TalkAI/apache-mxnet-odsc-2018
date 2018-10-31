@@ -42,7 +42,7 @@ dependencies:
     - flask==1.0.2
     - flask-cors==3.0.6
     - graphviz==0.8.4
-    - idna==2.7
+    - idna==2.6
     - importlib2==3.5.0.2
     - ipython-genutils==0.2.0
     - itsdangerous==1.1.0
@@ -64,7 +64,7 @@ dependencies:
     - pyparsing==2.2.2
     - python-dateutil==2.7.5
     - pywavelets==1.0.1
-    - requests==2.20.0
+    - requests==2.18.4
     - s3transfer==0.1.13
     - scikit-image==0.14.1
     - scipy==1.1.0
@@ -72,7 +72,7 @@ dependencies:
     - traitlets==4.3.2
     - typing==3.6.6
     - typing-extensions==3.6.6
-    - urllib3==1.24
+    - urllib3==1.22
     - werkzeug==0.14.1
 prefix: /anaconda2/envs/mms_demo
 
