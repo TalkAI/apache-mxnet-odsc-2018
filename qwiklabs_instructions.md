@@ -19,7 +19,7 @@ Welcome to Apache MXNet Bootcamp. We will use Amazon SageMaker to run the Apache
     git clone https://github.com/TalkAI/apache-mxnet-odsc-2018 ~/SageMaker/apache-mxnet-odsc-2018
     ```
 
-7. Now we can access the material from the notebook instance and run through the exercises by going into the DeepLearningWithMXNetGluon directory.
+7. Now we can access the material from the notebook instance and run through the exercises by going into the `apache-mxnet-odsc-2018` directory.
 
 8. Choose mxnet_p36 conda environment as the Kernel when executing a notebook.
 ![Qwiklabs Sage Maker Conda Env](./assets/qwiklabs_workshop_sagemaker_condaenv.png)
