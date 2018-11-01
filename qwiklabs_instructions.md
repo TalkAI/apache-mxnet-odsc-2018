@@ -16,9 +16,8 @@ Welcome to Apache MXNet Bootcamp. We will use Amazon SageMaker to run the Apache
 
 6. Clone the github repo recursively – it contains an assortment of material used in this workshop.
     ```
-    git clone --recursive https://github.com/TalkAI/apache-mxnet-odsc-2018 ~/SageMaker/apache-mxnet-odsc-2018
+    git clone https://github.com/TalkAI/apache-mxnet-odsc-2018 ~/SageMaker/apache-mxnet-odsc-2018
     ```
-    ![Qwiklabs Sage Maker Terminal](./assets/qwiklabs_workshop_sagemaker_terminal_1.png)
 
 7. Now we can access the material from the notebook instance and run through the exercises by going into the DeepLearningWithMXNetGluon directory.
 
