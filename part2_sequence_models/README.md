@@ -5,5 +5,5 @@
 1. Recurrent Neural Networks
 1. Long Short Term Memory (LSTM)
 1. Introduction to Gluon-NLP
-1. Lab - Sentiment Analysis for IMDB movie review dataset, using pretrained GloVe Embeddings
+1. Lab - Sentiment Analysis for IMDB movie review dataset, using vocabulary and pretrained Language Model on Wikitext-2 dataset
 
