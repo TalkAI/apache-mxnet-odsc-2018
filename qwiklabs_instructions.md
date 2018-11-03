@@ -1,4 +1,6 @@
-# Qwiklab Instructions
+# QWIKLab Instructions
+
+**<<<< This workshop is now complete and QWIKLab setup is not active anymore!! >>>>>**
 
 Welcome to Apache MXNet Bootcamp. We will use Amazon SageMaker to run the Apache MXNet lab sessions.
 
